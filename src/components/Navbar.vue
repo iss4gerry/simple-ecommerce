@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-light fixed-top">
+    <nav class="navbar navbar-light fixed-top-left">
         <div class="navbar-text ml-auto d-flex">
             <button class="btn btn-sm btn-outline-success" @click="$emit('toggle')">
                 <font-awesome-icon icon="dollar-sign"></font-awesome-icon>
